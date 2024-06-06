@@ -1,0 +1,17 @@
+h1 {
+    letter-spacing: 10px;
+    word-spacing: 20px;
+  }
+  
+h2 {
+    letter-spacing: 5px;
+    word-spacing: 10px;
+  }
+  
+h3 {
+    letter-spacing: 3px;
+    word-spacing: 6px;
+  }
+h1, h2, h3 {
+    text-transform:uppercase;
+  }
