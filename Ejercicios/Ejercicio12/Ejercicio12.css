@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin     : 0;
+    padding    : 20px;
+}
+
+h1.subrayado {
+    text-align: center;
+    text-decoration: overline;
+    text-decoration: underline;
+    margin-bottom  : 20px;
+}
+
+p {
+    line-height  : 1.5;
+    text-indent: 1;
+    margin-bottom: 20px;
+}
+
+span.subrayado {
+    text-decoration: underline;
+}
+
+span.tachado {
+    text-decoration: line-through;
+}
