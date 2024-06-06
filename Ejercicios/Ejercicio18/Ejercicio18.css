@@ -1,0 +1,9 @@
+.estilo1 {
+    color          : rgba(17, 0, 255, 0.582);
+    list-style-type: decimal;
+}
+
+.estilo2 {
+    color          : indigo;
+    list-style-type: upper-roman;
+}
