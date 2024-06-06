@@ -1,0 +1,22 @@
+#cabecera {
+    background-color: #1f72ad;
+    color           : #fff;
+    font-size       : 15px;
+    font-weight     : bold;
+    text-align: center;
+}
+
+#cuerpo {
+    background-color: #f0f0f0;
+    font-family     : Arial, sans-serif;
+    font-size       : 16px;
+    
+}
+
+#pie {
+    background-color: #333;
+    color           : #fff;
+    font-weight     : bold;
+    font-size       : 22px;
+    text-align: center;
+}
